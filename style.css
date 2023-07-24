@@ -1,0 +1,18 @@
+* {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: whitesmoke;
+   color: blue;
+}
+
+ul {
+   padding: 0px;
+}
+
+li {
+   list-style-type: none;
+   line-height: 30px;
+}
+
+.h1 {
+   color: blue;
+}
