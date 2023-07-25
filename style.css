@@ -1,5 +1,6 @@
 * {
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: 'Nunito', sans-serif;
+   font-family: 'Ubuntu Condensed', sans-serif;
    background-color: whitesmoke;
    color: blue;
 }
@@ -15,4 +16,12 @@ li {
 
 .h1 {
    color: blue;
+}
+
+img {
+   border: 1px solid #ddd;
+   border-radius: 6px;
+   max-width: 250px;
+   height: auto;
+
 }
